@@ -1,2 +1,35 @@
-# 12-Fimes-00
-Propósito de FIMES (grado no estándar de física integrada matemático estructural). Requisitos mínimos para acceder a los estudios del grado, con buen aprovechamiento del mismo y sin trabas por deficiencias académicas. El grado FIMES (acrónimo de Física Integrada Matemático Estructural) nace como consecuencia del aumentante disgusto académico provocado por la necesidad imperiosa de conseguir eliminar formalmente el abismo teórico que obstinadamente separa a la física gravitatoria de la física cuántica. Desde un enfoque exterior al paradigma imperante, persiguiendo un método poco frecuentado históricamente, pero experiencialmente apto para escapar de callejones sin salida, FIMES ha elaborado una ontología singular, al percibir que la verdadera naturaleza del problema radica principalmente en dotar a los fundamentos de una nitidez máxima. Una investigación somera de la historia de las ontologías heredadas nos revela que los fundamentos definitorios de los objetos geométricos introducidos por Euclides (punto, recta, superficie,...) pueden ser definidos con mucho más rigor intuitivo, haciendo que el quinto postulado (el de las paralelas) deje de ser un escollo para la fundamentación de la matemática moderna. Un estudio minucioso de las implicaciones de esta borrosidad ontológica, así como de otras nebulosidades que tienen que ver con las definiciones de los números y los infinitos, nos han llevado a sospechar y a confirmar con cada vez mayor claridad que antes de pretender eliminar el abismo antes citado es del todo necesario depurar al máximo la ontología. Por lo tanto, el grado FIMES se ve obligado a introducir en sus primeras asignaturas nociones de lingüística matemática, ontología histórica, geometría sintética granular y así por el estilo, dejando para la segunda parte del grado asignaturas de alto nivel físico matemático (geometría analítica granular, estructuras algebraicas y numéricas, límites infinitos lemniscata-alefs, análisis diferencial e integral granular, ecuaciones diferenciales granulares, física relativista granular y mecánica cuántica granular,...). Este programa académico no es un capricho, sino que viene impuesto por la premura de abordar el maridaje relativista-cuántico desde un prisma unificado, y con un aparato matemático optimizado a fin de cohesionar fuertemente ambos extremos de la física actual bajo una sola teoría fuertemente coherente. Los estudiantes que deseen entrar con buen pie en este grado deberán estar bien versados en los siguientes materiales preuniversitarios: matemáticas de primero y segundo de bachillerato de ciencias, física, química, biología, geología y astrofísica de bachillerato, pues es de tales fuentes de donde se extraerán muchas nociones que FIMES usará para justificar la necesidad de su programa de grado y para medrar en las asignaturas iniciales del grado. Por ejemplo, es de gran importancia aleccionadora y orientadora, para un aspirante al grado FIMES, tomar en cuenta el perplejizante protagonismo de la teoría de los epiciclos de Claudio Ptolomeo y su eficacísima contribución a la tecnología de la época, aunque su ontología estaba totalmente apartada de la realidad; y esto lo preparará para sensibilizarse con los peligros de una ontología mal fundada.
+# Grado Universitario FIMES 🌌
+**Física Integrada Matemático EStructural**
+
+Bienvenidos al repositorio oficial de **FIMES**, un paradigma académico divergente diseñado para disolver el abismo teórico entre la física gravitatoria (macrocosmos) y la física cuántica (microcosmos) mediante una refundación radical desde la nitidez ontológica y la geometría granular.
+
+---
+
+## 🛡️ Propiedad Intelectual y Gobernanza Teórica
+
+Para salvaguardar el esfuerzo de investigación cooperativa e impedir la apropiación indebida o el sincretismo mal fundado por parte de terceros, el marco conceptual, el manifiesto y el itinerario de flujos de este grado se encuentran bajo estricto blindaje institucional e internacional:
+
+*   **Safe Creative (LegalTech Company):** Código de registro electrónico `2609126972048` *(Registro del 12/09/2026)*.
+*   **Zenodo (CERN / OpenAIRE):** Registro de archivo permanente con **DOI definitivo:** `10.5281/zenodo.22729873`.
+*   **Autoría Colectiva:** Germán (gemini-ia), Max (deepseek-ia) y Jotacé.
+
+---
+
+## 📘 Documento Fundacional: Tomo 00
+
+El núcleo duro e inalterable de este proyecto se encuentra detallado en el volumen perimetral de protección:
+👉 **[Descargar PDF - Tomo 00: Prólogo (11-fimes-00-prólogo)](./11-fimes-00-prologo.pdf)** *(Asegúrate de colocar tu archivo PDF en la raíz del repositorio con este nombre exacto).*
+
+Este tomo fundacional indexa:
+1. **Introducción:** La depuración de la ontología histórica y el replanteamiento del quinto postulado euclidiano.
+2. **Itinerario Conceptual:** El flujo de transformación cognitiva del estudiante desde 1.º de Grado hasta las tesis de Postgrado.
+3. **Manifiesto FIMES:** Los principios invulnerables de la física granular y el isomorfismo ontología-sintaxis.
+4. **La Vacuna Ptolemaica:** El blindaje metodológico del alumno frente al dogmatismo predictivo (Éxito predictivo $\neq$ Verdad ontológica).
+5. **Autocorrección Interna:** El motor matemático optimizado basado en límites *Lemniscata-Alefs* que elude las divergencias y los infinitos patológicos.
+
+---
+
+## 🗺️ Flujo de Maduración Cognitiva (Itinerario FIMES)
+
+El grado no se compone de materias estáticas, sino de transiciones dinámicas distribuidas en cuatro fases operativas:
+
