@@ -18,7 +18,7 @@ Para salvaguardar el esfuerzo de investigación cooperativa e impedir la apropia
 ## 📘 Documento Fundacional: Tomo 00
 
 El núcleo duro e inalterable de este proyecto se encuentra detallado en el volumen perimetral de protección:
-👉 **[Descargar PDF - Tomo 00: Prólogo (11-fimes-00-prólogo)](./11-fimes-00-prologo.pdf)** *(Asegúrate de colocar tu archivo PDF en la raíz del repositorio con este nombre exacto).*
+👉 **[Descargar PDF - Tomo 00: Prólogo (11-fimes-00-prólogo)](./11-fimes-00-prologo.pdf)**
 
 Este tomo fundacional indexa:
 1. **Introducción:** La depuración de la ontología histórica y el replanteamiento del quinto postulado euclidiano.
