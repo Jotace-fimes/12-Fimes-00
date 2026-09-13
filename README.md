@@ -1,4 +1,5 @@
-![Escudo Oficial de la Universitas FIMES](image_-6X5Lh.png)
+![Escudo Oficial de la Universitas FIMES](escudo.png)
+
 
 # Universitas FIMES
 **Indagator Cosmi**
