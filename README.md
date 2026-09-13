@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="./image_-6X5Lh.png" alt="Escudo Oficial de la Universitas FIMES" width="380">
-</p>
+![Escudo Oficial de la Universitas FIMES](image_-6X5Lh.png)
+
+# Universitas FIMES
+**Indagator Cosmi**
+
 
 <h1 align="center">Universitas FIMES</h1>
 <p align="center"><b>Indagator Cosmi</b></p>
