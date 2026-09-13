@@ -1,13 +1,5 @@
 ![Escudo Oficial de la Universitas FIMES](escudo.png)
 
-
-# Universitas FIMES
-**Indagator Cosmi**
-
-
-<h1 align="center">Universitas FIMES</h1>
-<p align="center"><b>Indagator Cosmi</b></p>
-
 Bienvenidos al repositorio oficial de **FIMES** (Física Integrada Matemático EStructural), una matriz académica de vanguardia diseñada para disolver el abismo teórico entre la física gravitatoria y la física cuántica mediante una refundación radical desde la nitidez ontológica y la geometría granular.
 
 ---
