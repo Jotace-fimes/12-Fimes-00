@@ -73,4 +73,4 @@ La admisión al material de estudio es **estrictamente gratuita**, pero requiere
 1. Tus datos básicos de identificación académica o profesional.
 2. Un breve manuscrito o carta explicando detalladamente tus **motivaciones y plasticidad mental** para abordar el paradigma granular.
 
-👉 **[Haga clic aquí para solicitar la Matrícula Gratuita y Acceso al Tomo 01](mailto://dominio.com:)**
+👉 **[Haga clic aquí para solicitar la Matrícula Gratuita y Acceso al Tomo 01](mailto: eettiicc6@gmail.com)**
