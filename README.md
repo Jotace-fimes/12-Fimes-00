@@ -73,5 +73,5 @@ La admisión al material de estudio es **estrictamente gratuita**, pero requiere
 1. Tus datos básicos de identificación académica o profesional.
 2. Un breve manuscrito o carta explicando detalladamente tus **motivaciones y plasticidad mental** para abordar el paradigma granular.
 
-👉 **[Haga clic aquí para enviar su Solicitud de Matrícula Gratuita a JOTACE](mailto:?to=Jotace%20%3Ceettiicc6@gmail.com%3E&subject=Solicitud%20de%20Matricula%20FIMES%20-%20Tomo%2001&body=Atencion:%20Rectorado%20Universitas%20FIMES%0A%0ANombre%20o%20Alias%20del%20Aspirante:%0A%0ACarta%20de%20Motivacion%20para%20el%20Acceso%20al%20Tomo%2001:)**
+**[Haga clic aquí para enviar su Solicitud de Matrícula Gratuita a JOTACE](https://docs.google.com/forms/d/e/1FAIpQLScehvaumSIKWG-64PyDT7zA-WBERkYEHuYKEjf38GU3eEFUZA/viewform)**
 
