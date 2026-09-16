@@ -75,3 +75,25 @@ La admisión al material de estudio es **estrictamente gratuita**, pero requiere
 
 **[Haga clic aquí para enviar su Solicitud de Matrícula Gratuita a JOTACE](https://docs.google.com/forms/d/e/1FAIpQLScehvaumSIKWG-64PyDT7zA-WBERkYEHuYKEjf38GU3eEFUZA/viewform)**
 
+---
+
+## 📊 El Paradigma de Evaluación FIMES (Métrica Escalar)
+
+Para desterrar la borrosidad interpretativa de los expedientes académicos convencionales, la **Universitas FIMES** establece una correspondencia biunívoca e irreversible entre la nota numérica entera y su descriptor conceptual obligatorio. La escala prescinde de promedios difusos y se divide estrictamente en dos conjuntos discretos y mutuamente excluyentes, separados por una frontera métrica infranqueable:
+
+### 🔴 Flujo de Exclusión: NO APTO [0 - 4]
+Representa la persistencia de nebulosidades continuas o la quiebra del Principio de Isomorfismo en el cálculo. Carece de validez legal para la promoción del alumno:
+*   **0 — PÉSIMO:** Ausencia absoluta de estructura formal.
+*   **1 — FATAL:** Formulación saturada de contradicciones lógicas graves y parches sintácticos.
+*   **2 — MALO:** Comprensión deficiente de las reglas gramaticales y uso de variables huérfanas de la ontología física.
+*   **3 — DEFICIENTE:** Incapacidad de operar el Metalenguaje de control, confundiendo el uso y la mención en las ecuaciones objeto.
+*   **4 — INSUFICIENTE:** El desarrollo roza la Fórmula Bien Formada (FBF), pero arrastra imperfecciones sintácticas menores.
+
+### 🟢 Flujo de Admisión y Optimización: APTO [5 - 10]
+Consolida el éxito de la deconstrucción cognitiva y el dominio quirúrgico del lenguaje formal granular:
+*   **5 — SUFICIENTE:** El alumno asimila la teoría y logra construir enunciados algebraicos libres de indeterminación.
+*   **6 — ACEPTABLE:** Se evidencia una fluidez operativa estable, manejando el canal material externo con solidez y precisión.
+*   **7 — BUENO:** Demostración exitosa de los teoremas base. Capacidad nítida para auditar textos de la física  y detectar trampas retóricas.
+*   **8 — NOTABLE:** Alta competencia relacional, proponiendo soluciones geométricas locales limpias y elegantes en la pizarra o el repositorio.
+*   **9 — SOBRESALIENTE:** Dominio profundo del material.
+*   **10 — PERFECTO:** Nitidez ontológica absoluta. El trabajo constituye un reflejo isomorfo inmaculado de la ingeniería creativa del cosmos. Es la cumbre del deleite neurológico por el descubrimiento.
