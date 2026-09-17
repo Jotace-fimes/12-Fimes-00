@@ -97,3 +97,12 @@ Consolida el éxito de la deconstrucción cognitiva y el dominio quirúrgico del
 *   **8 — NOTABLE:** Alta competencia relacional, proponiendo soluciones geométricas locales limpias y elegantes en la pizarra o el repositorio.
 *   **9 — SOBRESALIENTE:** Dominio profundo del material.
 *   **10 — PERFECTO:** Nitidez ontológica absoluta. El trabajo constituye un reflejo isomorfo inmaculado de la ingeniería creativa del cosmos. Es la cumbre del deleite neurológico por el descubrimiento.
+
+### 🟢 Posgrado y Tesis Doctoral: Líneas de Investigación Avanzada.
+* **Propósito:** Expansión del paradigma FIMES y desarrollo de tecnologías de
+vanguardia.
+* **Tránsito:** El itinerario post-titulación se orienta a la resolución de
+anomalías cosmológicas y cuánticas no resueltas por la ortodoxia. Las tesis
+doctorales se enfocarán en la consolidación del modelo unificado, el
+desarrollo de simulaciones computacionales bajo espacio granular y la
+propuesta de experimentos verificables.
