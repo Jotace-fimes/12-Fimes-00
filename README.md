@@ -111,7 +111,7 @@ propuesta de experimentos verificables.
 
 PRIMER CURSO.
 *     Semestre I.
-
+!(Semestre 1.jpg)
 
 
       
