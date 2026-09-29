@@ -39,14 +39,14 @@ Este tomo fundacional indexa:
 1. **Introducción:** La depuración de la ontología histórica y el replanteamiento del quinto postulado euclidiano.
 2. **Itinerario Conceptual:** El flujo de transformación cognitiva del estudiante desde 1.º de Grado hasta las tesis de Postgrado.
 3. **Manifiesto FIMES:** Los principios invulnerables de la física granular y el isomorfismo ontología-sintaxis.
-4. **La Vacuna Ptolemaica:** El blindaje metodológico del alumno frente al dogmatismo predictivo (Éxito predictivo $\neq$ Verdad ontológica).
+4. **La Vacuna Ptolemaica:** El blindaje metodológico del alumno frente al dogmatismo predictivo (Éxito predictivo vs Verdad ontológica).
 5. **Autocorrección Interna:** El motor matemático optimizado basado en límites *Lemniscata-Alefs* que elude las divergencias y los infinitos patológicos.
 
 ---
 
 *   **Semestres I y II (Cimentación Ontológica):** Desaprender la borrosidad analítica tradicional. Enfoque nítido en **Lingüística Instrumental (LI)**, *Ontología Histórica* y *Geometría Sintética Granular*.
 *   **Semestres III y IV (Instrumentalización Matemática):** Transición a la *Geometría Analítica Granular* y estructuras algebraicas adaptadas para erradicar el continuo absoluto.
-*   **Semestres V y VI (Operatividad Físico-Matemática):** Despliegue del *Análisis Diferencial e Integral Granular* y *Ecuaciones Diferenciales Granulares* libres de indeterminaciones del tipo $1/0$.
+*   **Semestres V y VI (Operatividad Físico-Matemática):** Despliegue del *Análisis Diferencial e Integral Granular* y *Ecuaciones Diferenciales Granulares* libres de indeterminaciones del tipo 1/0.
 *   **Semestres VII y VIII (Unificación Teórica y TFG):** Maridaje unificado de la *Física Relativista* y la *Mecánica Cuántica* bajo el mismo motor sintáctico de tejido universal granular.
 
 ---
