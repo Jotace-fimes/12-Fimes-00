@@ -111,6 +111,7 @@ propuesta de experimentos verificables.
 
 PRIMER CURSO.
 *     Semestre I.
-![https://github.com/Jotace-fimes/12-Fimes-00/blob/main/Semestre%201.jpg]
+<img width="1424" height="426" alt="Semestre 1" src="https://github.com/user-attachments/assets/b60f875d-1d8f-46eb-887c-1dbb17a04e99" />
+
 
       
