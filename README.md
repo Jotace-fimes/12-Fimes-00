@@ -110,8 +110,7 @@ propuesta de experimentos verificables.
 ### 📚 Asignaturas del grado.
 
 PRIMER CURSO.
-
-      Semestre I.
+*     Semestre I.
 
 
 
