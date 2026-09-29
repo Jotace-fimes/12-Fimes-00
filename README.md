@@ -59,17 +59,12 @@ Cualquier desarrollo, código de cálculo o teorema que se proponga en este repo
 3.  **Inmunidad al Parche:** Prohibición absoluta de constantes *ad hoc*, dimensiones ocultas artificiales o procesos de renormalización.
 
 ---
-## 📘 Plan de Estudios: Semestre I
+## 📘 Plan de Estudios:
 
-### Asignatura 01: Lingüística Instrumental (11-fimes-01-li)
-* **Propósito:** Dotar al estudiante de ciencias del instrumental analítico de la lingüística pura (morfología, sintaxis, semántica) para extirpar las nebulosidades del continuo absoluto y vacunar su mente contra el dogmatismo predictivo.
-* **Estructura:** Índice de 6 capítulos que transita desde la deconstrucción de la lengua materna indoeuropea hasta el establecimiento de la *Sintaxis Matemática Activa* (la elusión formal de la indeterminación $1/0$).
-
-🔐 **ESTADO DEL DOCUMENTO: ACCESO RESTRINGIDO**
-El Tomo 01 está completamente tricotado y auditado bajo el **Visto Bueno (VB)** del Consorcio FIMES. En consonancia con las políticas de prudencia y gobernanza intelectual de la institución, este volumen fundacional no se encuentra disponible para descarga abierta o anónima.
+🔐 **ACCESO RESTRINGIDO**
 
 🎓 **Protocolo de Acceso y Matrícula Especial:**
-La admisión al material de estudio es **estrictamente gratuita**, pero requiere un proceso de registro obligatorio. Si deseas convertirte en un auténtico *indagator cosmi* y acceder al PDF oficial del Tomo 01, debes formalizar tu solicitud enviando:
+La admisión al material de estudio es **estrictamente gratuita**, pero requiere un proceso de registro obligatorio. Si deseas convertirte en un auténtico *indagator cosmi* y acceder al Grado, debes formalizar tu solicitud enviando:
 1. Tus datos básicos de identificación académica o profesional.
 2. Un breve manuscrito o carta explicando detalladamente tus **motivaciones y plasticidad mental** para abordar el paradigma granular.
 
@@ -112,6 +107,6 @@ propuesta de experimentos verificables.
 PRIMER CURSO.
 *     Semestre I.
 <img width="1424" height="426" alt="Semestre 1" src="https://github.com/user-attachments/assets/b60f875d-1d8f-46eb-887c-1dbb17a04e99" />
-
+*     Semestre II.
 
       
