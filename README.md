@@ -106,3 +106,7 @@ anomalías cosmológicas y cuánticas no resueltas por la ortodoxia. Las tesis
 doctorales se enfocarán en la consolidación del modelo unificado, el
 desarrollo de simulaciones computacionales bajo espacio granular y la
 propuesta de experimentos verificables.
+
+### 📚 Asignaturas del grado.
+
+
