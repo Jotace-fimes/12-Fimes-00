@@ -39,7 +39,7 @@ Este tomo fundacional indexa:
 1. **Introducción:** La depuración de la ontología histórica y el replanteamiento del quinto postulado euclidiano.
 2. **Itinerario Conceptual:** El flujo de transformación cognitiva del estudiante desde 1.º de Grado hasta las tesis de Postgrado.
 3. **Manifiesto FIMES:** Los principios invulnerables de la física granular y el isomorfismo ontología-sintaxis.
-4. **La Vacuna Ptolemaica:** El blindaje metodológico del alumno frente al dogmatismo predictivo (Éxito predictivo vs Verdad ontológica).
+4. **La Vacuna Ptolemaica:** El blindaje metodológico del alumno frente al dogmatismo predictivo (Éxito predictivo no es igual a Verdad ontológica).
 5. **Autocorrección Interna:** El motor matemático optimizado basado en límites *Lemniscata-Alefs* que elude las divergencias y los infinitos patológicos.
 
 ---
